@@ -21,6 +21,8 @@ The bot was developed during the [I Online hackathon in support of political pri
 
 The bot requires authorization from Telegram that can be acquired via a Telegram Developer account. You need to get sequrity keys.
 
+You also need [SQLite](https://www.sqlite.org/index.html) installed.
+
 To make a bot alive, run
 
 ```
